@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1LavK5GdUl7s8zV28DZhLGHvTFVYMUdBj
 """
 
-pip install requests pandas streamlit matplotlib
+
 
 import requests
 import json
